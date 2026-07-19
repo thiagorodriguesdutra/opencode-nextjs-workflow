@@ -1,0 +1,9 @@
+{
+  "name": "opencode-nextjs-workflow",
+  "version": "1.0.0",
+  "bin": {
+    "opencode-nextjs-workflow": "bin/cli.js"
+  },
+  "files": ["bin", "template"],
+  "type": "module"
+}
